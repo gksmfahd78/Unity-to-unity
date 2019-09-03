@@ -1,0 +1,10 @@
+sceneSetups:
+- path: Assets/Scenes/AiEditor.unity
+  isLoaded: 1
+  isActive: 1
+- path: "Assets/Scenes/\uC9C4\uD601\uC77C\uD574\uB77C.unity"
+  isLoaded: 1
+  isActive: 0
+- path: Assets/Scenes/LoadingScene.unity
+  isLoaded: 1
+  isActive: 0
